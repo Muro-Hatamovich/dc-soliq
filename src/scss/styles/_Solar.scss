@@ -1,0 +1,29 @@
+.solar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #fafafa;
+
+	&__block {
+		width: 50%;
+
+		&--left {
+			width: 40%;
+		}
+	}
+
+	&__title {
+		font-size: $fs-xl;
+		margin-bottom: 3rem;
+	}
+
+	&__para {
+		font-size: $fs-m;
+		line-height: 1.8;
+	}
+
+	&__img {
+		width: 100%;
+		display: block;
+	}
+}

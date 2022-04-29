@@ -72,27 +72,30 @@ export const data = {
 			],
 		},
 		advantages: {
-			title: "Bizning imkoniyantlarimiz",
 			items: [
 				{
 					id: 1,
-					icon: "/images/dev.png",
+					img: "/images/solar.png",
 					title: "Quyosh energiya ta'minoti",
+					text: "Axborot tizimlarining uzluksizligini ta'minlash maqsadida, zamonaviy dizel generatorlari, UPS tizimlari, quyosh energiyasi panellari bilan ta'minlangan. Markaz o'zining elektr-energiyasi ehtiyojining 80 foizini quyosh energiyasi orqali qoplamoqda.",
 				},
 				{
 					id: 2,
-					icon: "/images/dev.png",
+					img: "/images/server.png",
 					title: "Asosiy va zahira serverxonalar",
+					text: "Axborot tizimlarining uzluksiz ravishda ishlashini hamda axborot xavfsizligini ta'minlash maqsadida, Ma'lumotlarni qayta ishlash markazining asosiy va zahira serverxonalari tashkil etilgan. Server xonalar orasidagi masofa 10 km ni tashkil etib, to'g'ridan-to'g'ri optik tolali aloqa kanali bilan o'zaro bog'langan va 40 Gigabit/sekund tezlikdagi aloqa tashkil etilgan.",
 				},
 				{
 					id: 3,
-					icon: "/images/dev.png",
+					img: "/images/cloud.png",
 					title: "Giperkonvergent infratuzilma",
+					text: "Ma'lumotlarni qayta ishlash markazida Cisco kompaniyasining texnologiyasi yo'lga qo'yilgan. Ushbu texnologiya orqali ma'lumotlarni qayta ishlashda texnik quvvat moslashuvchanligi, komponentlar integratsiyalashuvi, axborot tizimlari faoliyatida uzluksizlikning eng yuqori darajasi ta'minlanadi.",
 				},
 				{
 					id: 4,
-					icon: "/images/dev.png",
+					img: "/images/team.png",
 					title: "Professional jamoa",
+					text: "Markazning ma'lumotlar bazasi, axborot tizimlari va muhandislik infratuzilmasini texnik jihatdan qo'llab-quvvatlash bo'yicha professional jamoa faoliyati yo'lga qo'yilgan. Jamoa Linux, Oracle, Cisco, VMware, Arenadata kabi zamonaviy texnologiyalar bo'yicha sertifikatlarga ega.",
 				},
 			],
 		},

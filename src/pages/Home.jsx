@@ -2,6 +2,7 @@ import Banner from "../components/Banner";
 import Brief from "../components/Brief";
 import Info from "../components/Info";
 import Services from "../components/Services";
+import Advantages from "../components/Advantages";
 
 // Content
 import { data } from "../state/content";
@@ -11,6 +12,7 @@ const Home = () => {
 	const { brief } = data["uz"];
 	const { info } = data["uz"];
 	const { services } = data["uz"];
+	const { advantages } = data["uz"];
 
 	return (
 		<div className="home push">
@@ -30,6 +32,8 @@ const Home = () => {
 			<Info blocks={info.blocks} />
 
 			<Services items={services.items} />
+
+			<Advantages items={advantages.items} />
 		</div>
 	);
 };

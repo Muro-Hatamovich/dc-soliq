@@ -1,0 +1,45 @@
+.advantages {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background: white;
+	padding-top: 7.5rem;
+	padding-bottom: 7.5rem;
+
+	&__block {
+		width: 47.5%;
+	}
+
+	&__title {
+		font-size: $fs-xxl;
+		font-weight: $fw-m;
+		margin-bottom: $space-bottom-m;
+		text-transform: uppercase;
+	}
+
+	&__para {
+		font-size: $fs-m;
+		line-height: 1.8;
+	}
+
+	&--1 {
+		background: $bg-light;
+
+		.advantages__block--left {
+			order: 1;
+		}
+	}
+
+	&--3 {
+		background: $bg-light;
+
+		.advantages__block--left {
+			order: 1;
+		}
+	}
+
+	&__img {
+		width: 100%;
+		display: block;
+	}
+}
