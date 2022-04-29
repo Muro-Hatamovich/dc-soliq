@@ -1,0 +1,59 @@
+.info {
+	display: flex;
+	position: relative;
+	border: 1px solid #eee;
+
+	&::after {
+		content: "";
+		display: block;
+		position: absolute;
+		width: 50%;
+		height: 100%;
+		background: $bg-light;
+		left: 0;
+	}
+
+	&__block {
+		width: 50%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding: 5rem 0;
+		position: relative;
+		z-index: 1;
+		border-right: 1px solid #ccc;
+
+		&:last-child {
+			border-right: none;
+		}
+	}
+
+	&__icon {
+		width: 10rem;
+		height: 10rem;
+		margin-bottom: $space-bottom-m;
+	}
+
+	&__title {
+		font-size: $fs-l;
+		margin-bottom: $space-bottom-m;
+	}
+
+	&__btn {
+		background: $bg-light;
+		border: 1px solid $fg-primary;
+		outline: 0;
+		font-size: $fs-m;
+		color: $fg-primary;
+		padding: 0.5em 3em;
+		cursor: pointer;
+		text-transform: uppercase;
+		border-radius: $radius-s;
+		transition: $transition-s;
+
+		&:hover {
+			background: $bg-primary;
+			color: $fg-light;
+		}
+	}
+}

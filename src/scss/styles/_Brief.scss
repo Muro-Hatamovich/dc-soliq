@@ -1,0 +1,23 @@
+.brief {
+	background: $bg-light;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+
+	&__title {
+		margin-bottom: $space-bottom-s;
+	}
+
+	&__para {
+		font-size: 1.8rem;
+		margin-bottom: $space-bottom-xs;
+		line-height: $lh-l;
+		border-bottom: 1px solid #ccc;
+		padding-bottom: 1rem;
+		width: 75%;
+
+		&:last-child {
+			margin-bottom: 0;
+			border: 0;
+		}
+	}
+}

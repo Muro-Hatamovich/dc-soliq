@@ -1,0 +1,64 @@
+.title-primary {
+	font-size: $fs-xl;
+	display: block;
+	padding-bottom: 1rem;
+	text-align: center;
+
+	&--colored {
+		color: $fg-primary;
+	}
+
+	&--light {
+		font-weight: $fw-s;
+	}
+
+	&--bold {
+		font-weight: $fw-m;
+	}
+
+	&--heavy {
+		font-weight: $fw-l;
+	}
+}
+
+.title-secondary {
+	font-size: $fs-l;
+	display: block;
+
+	&--colored {
+		color: $fg-primary;
+	}
+
+	&--light {
+		font-weight: $fw-s;
+	}
+
+	&--bold {
+		font-weight: $fw-m;
+	}
+}
+
+.title-tertiary {
+	font-size: $fs-m;
+	display: block;
+
+	&--colored {
+		color: $fg-primary;
+	}
+
+	&--light {
+		font-weight: $fw-s;
+	}
+
+	&--bold {
+		font-weight: $fw-m;
+	}
+}
+
+.para {
+	font-size: $fs-s;
+
+	&--colored {
+		color: $fg-primary;
+	}
+}

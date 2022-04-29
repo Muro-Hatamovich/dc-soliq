@@ -1,0 +1,44 @@
+.langs {
+	margin-left: 5rem;
+	position: relative;
+	font-size: $fs-xs;
+
+	&__btn {
+		padding: 0.5em 1em;
+		background: $bg-primary;
+		color: $fg-light;
+		border: 0;
+		outline: 0;
+		cursor: pointer;
+		font-weight: $fw-l;
+		display: flex;
+		align-items: center;
+		border-radius: $radius-s;
+	}
+
+	&__icon {
+		margin-right: 0.5rem;
+	}
+
+	&__list {
+		position: absolute;
+		width: 100%;
+
+		&--hidden {
+			display: none;
+		}
+	}
+
+	&__item {
+		font-size: inherit;
+		padding: 0.5em 1rem;
+		background: #eee;
+		list-style: none;
+		cursor: pointer;
+		transition: $transition-m;
+
+		&:hover {
+			background: $bg-light;
+		}
+	}
+}

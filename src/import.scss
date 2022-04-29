@@ -1,0 +1,23 @@
+// variables
+@import "./scss/vars/ff"; // font families
+@import "./scss/vars/fs"; // font sizes
+@import "./scss/vars/fw"; // font weights
+@import "./scss/vars/lh"; // line heights
+@import "./scss/vars/colors"; // colors
+@import "./scss/vars/effects"; // effects
+@import "./scss/vars/spaces"; // spaces
+// styles
+@import "./scss/global"; // global styles
+@import "./scss/typography"; // typography styles
+@import "./scss/effects"; // effect styles
+@import "./scss/styles/Header"; // header styles
+@import "./scss/styles/Logo"; // logo styles
+@import "./scss/styles/Nav"; // nav styles
+@import "./scss/styles/Langs"; // langs styles
+@import "./scss/styles/Banner"; // banner styles
+@import "./scss/styles/Brief"; // brief styles
+@import "./scss/styles/Info"; // info styles
+@import "./scss/styles/Services"; // services styles
+@import "./scss/styles/Advantages"; // advantages styles
+@import "./scss/styles/News"; // news styles
+@import "./scss/styles/Footer"; // footer styles

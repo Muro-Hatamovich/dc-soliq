@@ -1,0 +1,16 @@
+.logo {
+	display: flex;
+	align-items: center;
+
+	&__img {
+		display: block;
+		margin-right: 0.5rem;
+	}
+
+	&__body {
+		display: flex;
+		flex-direction: column;
+		text-transform: uppercase;
+		font-weight: $fw-l;
+	}
+}

@@ -1,0 +1,44 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	min-hegiht: 100%;
+	font-size: 62.5%;
+	height: 100%;
+}
+
+body {
+	font-size: $fs-s;
+	font-family: $raleway, sans-serif;
+	font-weight: $fw-s;
+	-webkit-font-smooth: smooth;
+	font-smooth: antialiased;
+	color: $fg-dark;
+	line-height: $lh-m;
+	height: 100%;
+}
+
+.container {
+	width: 100%;
+	padding: 0 calc(50% - 750px);
+}
+
+#root {
+	height: 100%;
+}
+
+.App {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.push {
+	padding-top: 75px;
+	flex-grow: 1;
+}

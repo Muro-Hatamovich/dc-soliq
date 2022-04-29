@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alig",
+				"align-self"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"sasss",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"term",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"terminus opne",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termni",
+				"Terminus: Close"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"hight",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"j",
+				"Set Syntax: JSX"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"sytax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"sh",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublime linter ",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"got",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - Side-by-Side"
+			],
+			[
+				"selec",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"select theme",
+				"UI: Select Theme"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler({'http': 'http://172.24.8.169:781', 'https': 'https://172.24.8.169:781'})) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hatamovich/dc-draft/src/index.scss",
+		"/home/hatamovich/dc-draft/src/scss/typography.scss",
+		"/home/hatamovich/dc-draft/src/index.js",
+		"/home/hatamovich/dc-draft/src/components/Header.jsx",
+		"/home/hatamovich/dc-draft/src/App.js",
+		"/home/hatamovich/dc-draft/src/scss/global.scss",
+		"/home/hatamovich/dc-draft/src/scss/vars/container.scss",
+		"/home/hatamovich/dc-draft/src/scss/vars/fs.scss",
+		"/home/hatamovich/dc-draft/src/scss/vars/colors.scss",
+		"/home/hatamovich/dc-draft/src/scss/vars/lh.scss",
+		"/home/hatamovich/dc-draft/src/scss/vars/fw.scss",
+		"/home/hatamovich/dc-draft/src/scss/vars/ff.scss",
+		"/home/hatamovich/dc-draft/public/index.html",
+		"/home/hatamovich/dc-draft/index.scss",
+		"/home/hatamovich/Desktop/DataCenterSource-resp/src/pages/Home.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-resp/src/components/Cases/Cases.css",
+		"/home/hatamovich/Desktop/DataCenterSource-resp/src/components/Cases/index.jsx",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/components/Info/Info.css",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/components/ExtraServices/ExtraServices.css",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/components/Services/Services.css",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/components/Services/index.jsx",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/components/Banner/Banner.css",
+		"/home/hatamovich/Desktop/in-progress (responsive)/public/index.html",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/styles/index.css",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/components/Navigation/index.jsx",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/components/Navigation/Navigation.css",
+		"/home/hatamovich/Desktop/in-progress (responsive)/src/components/Navigation/Responsive.css",
+		"/home/hatamovich/Desktop/in-progress/src/components/Footer/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/hooks/useFetchData.js",
+		"/home/hatamovich/Desktop/in-progress/src/components/ExtraServices/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/Info/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/Langs/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/Navigation/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/pages/About/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/pages/Documents/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/Services/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/News/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/Logo/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/Advantages/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/Banner/index.jsx",
+		"/home/hatamovich/Desktop/in-progress/src/components/DocumentsInfo/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/footer.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Footer/Footer.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Footer/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/DocumentsDownloadCard/DocumentsDownloadCard.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/News/News.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/ExtraServices/ExtraServices.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/NewsCard/NewsCard.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/DocumentsInfo/DocumentsInfo.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/AdvantagesCard/AdvantagesCard.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/advantages.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Advantages/Advantages.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/extra.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/services.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Services/Services.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/styles/index.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Navigation/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/pages/About/About.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Logo/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/logo.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Logo/Logo.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/navigation.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/about.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Info/Info.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Navigation/Navigation.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/documents.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/DocumentsInfo/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/News/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Services/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/SocialNetworks/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/DocumentsDownload/DocumentsDownload.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/pages/Documents/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/pages/About/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/DocumentsDownload/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Advantages/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Langs/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Info/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/ExtraServices/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/Banner/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/AdvantagesCard/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/advantages.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/banner.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/documents.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/extra.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/footer.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/info.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/langs.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/logo.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/navigation.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/news.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/data/components/services.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/App.js",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/public/index.html",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.5/src/components/DocumentsDownloadCard/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/DocumentsDownloadCard/DocumentsDownloadCard.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/DocumentsDownloadCard/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/Logo/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/hooks/useFetchData.js",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/App.js",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/pages/Documents/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/DocumentsDownload/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/data/components/advantages.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/data/components/footer.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/data/components/about.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/data/components/documents.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/public/index.html",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/Navigation/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/pages/Home.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/data/components/services.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/News/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/data/components/pages.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/data/components/news.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/Pagination/Pagination.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/DocumentsInfo/DocumentsInfo.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/NewsCard/NewsCard.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/.htaccess",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/build/.htaccess",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/NewsCard/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/News/News.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/data/components/navigation.json",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/pages/About/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/Navigation/Navigation.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/Pagination/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/pages/NewsPage/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/pages/News/NewsPage.css",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/pages/News/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/pages/Contacts/index.jsx",
+		"/home/hatamovich/Desktop/DataCenterSource-v-1.0/src/components/Info/index.jsx"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
